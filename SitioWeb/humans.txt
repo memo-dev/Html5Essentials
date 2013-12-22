@@ -1,0 +1,21 @@
+/* memo-dev.com | sitio web de memo-dev. - http://memo-dev.com */
+
+/* TEAM */
+	Creator: Guillermo Puente
+	Contact: g.memo.asd [at] gmail.com
+	Twitter: @memo_asd
+	From: Santiago, Chile
+
+/* IN MEMORIAL */
+	Bla bla
+
+/* THANKS */
+	Bla Bla
+	http:/www.facebook.com
+
+/* SITE */
+	Last update: 2013/12/22
+	Lenguage: Español
+	Standars: HTML5, CSS3, JavaScript
+	Components: JQuery
+	Software: SublimeText2
